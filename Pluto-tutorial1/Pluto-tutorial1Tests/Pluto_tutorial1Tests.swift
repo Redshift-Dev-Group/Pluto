@@ -1,15 +1,15 @@
 //
-//  PlutoTests.swift
-//  PlutoTests
+//  Pluto_tutorial1Tests.swift
+//  Pluto-tutorial1Tests
 //
-//  Created by Jeremy Vatter on 8/12/14.
+//  Created by Jeremy Vatter on 8/14/14.
 //  Copyright (c) 2014 Redshift Dev Group. All rights reserved.
 //
 
 import UIKit
 import XCTest
 
-class PlutoTests: XCTestCase {
+class Pluto_tutorial1Tests: XCTestCase {
     
     override func setUp() {
         super.setUp()

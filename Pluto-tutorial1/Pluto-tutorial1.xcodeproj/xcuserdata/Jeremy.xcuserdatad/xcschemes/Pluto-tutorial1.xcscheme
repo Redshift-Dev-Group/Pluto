@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "3F9789E1199AF34E00B61AF4"
-               BuildableName = "Pluto.app"
-               BlueprintName = "Pluto"
-               ReferencedContainer = "container:Pluto.xcodeproj">
+               BlueprintIdentifier = "3F58CDB7199D25EA0019DB3B"
+               BuildableName = "Pluto-tutorial1.app"
+               BlueprintName = "Pluto-tutorial1"
+               ReferencedContainer = "container:Pluto-tutorial1.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,20 +32,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "3F9789F5199AF34E00B61AF4"
-               BuildableName = "PlutoTests.xctest"
-               BlueprintName = "PlutoTests"
-               ReferencedContainer = "container:Pluto.xcodeproj">
+               BlueprintIdentifier = "3F58CDC9199D25EA0019DB3B"
+               BuildableName = "Pluto-tutorial1Tests.xctest"
+               BlueprintName = "Pluto-tutorial1Tests"
+               ReferencedContainer = "container:Pluto-tutorial1.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "3F9789E1199AF34E00B61AF4"
-            BuildableName = "Pluto.app"
-            BlueprintName = "Pluto"
-            ReferencedContainer = "container:Pluto.xcodeproj">
+            BlueprintIdentifier = "3F58CDB7199D25EA0019DB3B"
+            BuildableName = "Pluto-tutorial1.app"
+            BlueprintName = "Pluto-tutorial1"
+            ReferencedContainer = "container:Pluto-tutorial1.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -61,10 +61,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "3F9789E1199AF34E00B61AF4"
-            BuildableName = "Pluto.app"
-            BlueprintName = "Pluto"
-            ReferencedContainer = "container:Pluto.xcodeproj">
+            BlueprintIdentifier = "3F58CDB7199D25EA0019DB3B"
+            BuildableName = "Pluto-tutorial1.app"
+            BlueprintName = "Pluto-tutorial1"
+            ReferencedContainer = "container:Pluto-tutorial1.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -79,10 +79,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "3F9789E1199AF34E00B61AF4"
-            BuildableName = "Pluto.app"
-            BlueprintName = "Pluto"
-            ReferencedContainer = "container:Pluto.xcodeproj">
+            BlueprintIdentifier = "3F58CDB7199D25EA0019DB3B"
+            BuildableName = "Pluto-tutorial1.app"
+            BlueprintName = "Pluto-tutorial1"
+            ReferencedContainer = "container:Pluto-tutorial1.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

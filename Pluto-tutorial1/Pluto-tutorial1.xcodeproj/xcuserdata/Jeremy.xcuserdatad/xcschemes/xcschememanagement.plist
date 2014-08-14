@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Pluto.xcscheme</key>
+		<key>Pluto-tutorial1.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>3F9789E1199AF34E00B61AF4</key>
+		<key>3F58CDB7199D25EA0019DB3B</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>3F9789F5199AF34E00B61AF4</key>
+		<key>3F58CDC9199D25EA0019DB3B</key>
 		<dict>
 			<key>primary</key>
 			<true/>

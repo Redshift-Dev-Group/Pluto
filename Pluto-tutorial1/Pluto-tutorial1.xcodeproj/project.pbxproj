@@ -7,46 +7,44 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3F9789E8199AF34E00B61AF4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F9789E7199AF34E00B61AF4 /* AppDelegate.swift */; };
-		3F9789EA199AF34E00B61AF4 /* MasterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F9789E9199AF34E00B61AF4 /* MasterViewController.swift */; };
-		3F9789EC199AF34E00B61AF4 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F9789EB199AF34E00B61AF4 /* DetailViewController.swift */; };
-		3F9789EF199AF34E00B61AF4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F9789ED199AF34E00B61AF4 /* Main.storyboard */; };
-		3F9789F1199AF34E00B61AF4 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F9789F0199AF34E00B61AF4 /* Images.xcassets */; };
-		3F9789FD199AF34E00B61AF4 /* PlutoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F9789FC199AF34E00B61AF4 /* PlutoTests.swift */; };
+		3F58CDBE199D25EA0019DB3B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F58CDBD199D25EA0019DB3B /* AppDelegate.swift */; };
+		3F58CDC0199D25EA0019DB3B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F58CDBF199D25EA0019DB3B /* ViewController.swift */; };
+		3F58CDC3199D25EA0019DB3B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F58CDC1199D25EA0019DB3B /* Main.storyboard */; };
+		3F58CDC5199D25EA0019DB3B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F58CDC4199D25EA0019DB3B /* Images.xcassets */; };
+		3F58CDD1199D25EA0019DB3B /* Pluto_tutorial1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F58CDD0199D25EA0019DB3B /* Pluto_tutorial1Tests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		3F9789F7199AF34E00B61AF4 /* PBXContainerItemProxy */ = {
+		3F58CDCB199D25EA0019DB3B /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 3F9789DA199AF34D00B61AF4 /* Project object */;
+			containerPortal = 3F58CDB0199D25EA0019DB3B /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 3F9789E1199AF34E00B61AF4;
-			remoteInfo = Pluto;
+			remoteGlobalIDString = 3F58CDB7199D25EA0019DB3B;
+			remoteInfo = "Pluto-tutorial1";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		3F9789E2199AF34E00B61AF4 /* Pluto.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Pluto.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		3F9789E6199AF34E00B61AF4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		3F9789E7199AF34E00B61AF4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		3F9789E9199AF34E00B61AF4 /* MasterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MasterViewController.swift; sourceTree = "<group>"; };
-		3F9789EB199AF34E00B61AF4 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
-		3F9789EE199AF34E00B61AF4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		3F9789F0199AF34E00B61AF4 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		3F9789F6199AF34E00B61AF4 /* PlutoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PlutoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		3F9789FB199AF34E00B61AF4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		3F9789FC199AF34E00B61AF4 /* PlutoTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlutoTests.swift; sourceTree = "<group>"; };
+		3F58CDB8199D25EA0019DB3B /* Pluto-tutorial1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Pluto-tutorial1.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3F58CDBC199D25EA0019DB3B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F58CDBD199D25EA0019DB3B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		3F58CDBF199D25EA0019DB3B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		3F58CDC2199D25EA0019DB3B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		3F58CDC4199D25EA0019DB3B /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		3F58CDCA199D25EA0019DB3B /* Pluto-tutorial1Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Pluto-tutorial1Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3F58CDCF199D25EA0019DB3B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F58CDD0199D25EA0019DB3B /* Pluto_tutorial1Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pluto_tutorial1Tests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		3F9789DF199AF34E00B61AF4 /* Frameworks */ = {
+		3F58CDB5199D25EA0019DB3B /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		3F9789F3199AF34E00B61AF4 /* Frameworks */ = {
+		3F58CDC7199D25EA0019DB3B /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -56,58 +54,57 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		3F9789D9199AF34D00B61AF4 = {
+		3F58CDAF199D25EA0019DB3B = {
 			isa = PBXGroup;
 			children = (
-				3F9789E4199AF34E00B61AF4 /* Pluto */,
-				3F9789F9199AF34E00B61AF4 /* PlutoTests */,
-				3F9789E3199AF34E00B61AF4 /* Products */,
+				3F58CDBA199D25EA0019DB3B /* Pluto-tutorial1 */,
+				3F58CDCD199D25EA0019DB3B /* Pluto-tutorial1Tests */,
+				3F58CDB9199D25EA0019DB3B /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		3F9789E3199AF34E00B61AF4 /* Products */ = {
+		3F58CDB9199D25EA0019DB3B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				3F9789E2199AF34E00B61AF4 /* Pluto.app */,
-				3F9789F6199AF34E00B61AF4 /* PlutoTests.xctest */,
+				3F58CDB8199D25EA0019DB3B /* Pluto-tutorial1.app */,
+				3F58CDCA199D25EA0019DB3B /* Pluto-tutorial1Tests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		3F9789E4199AF34E00B61AF4 /* Pluto */ = {
+		3F58CDBA199D25EA0019DB3B /* Pluto-tutorial1 */ = {
 			isa = PBXGroup;
 			children = (
-				3F9789E7199AF34E00B61AF4 /* AppDelegate.swift */,
-				3F9789E9199AF34E00B61AF4 /* MasterViewController.swift */,
-				3F9789EB199AF34E00B61AF4 /* DetailViewController.swift */,
-				3F9789ED199AF34E00B61AF4 /* Main.storyboard */,
-				3F9789F0199AF34E00B61AF4 /* Images.xcassets */,
-				3F9789E5199AF34E00B61AF4 /* Supporting Files */,
+				3F58CDBD199D25EA0019DB3B /* AppDelegate.swift */,
+				3F58CDBF199D25EA0019DB3B /* ViewController.swift */,
+				3F58CDC1199D25EA0019DB3B /* Main.storyboard */,
+				3F58CDC4199D25EA0019DB3B /* Images.xcassets */,
+				3F58CDBB199D25EA0019DB3B /* Supporting Files */,
 			);
-			path = Pluto;
+			path = "Pluto-tutorial1";
 			sourceTree = "<group>";
 		};
-		3F9789E5199AF34E00B61AF4 /* Supporting Files */ = {
+		3F58CDBB199D25EA0019DB3B /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				3F9789E6199AF34E00B61AF4 /* Info.plist */,
+				3F58CDBC199D25EA0019DB3B /* Info.plist */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		3F9789F9199AF34E00B61AF4 /* PlutoTests */ = {
+		3F58CDCD199D25EA0019DB3B /* Pluto-tutorial1Tests */ = {
 			isa = PBXGroup;
 			children = (
-				3F9789FC199AF34E00B61AF4 /* PlutoTests.swift */,
-				3F9789FA199AF34E00B61AF4 /* Supporting Files */,
+				3F58CDD0199D25EA0019DB3B /* Pluto_tutorial1Tests.swift */,
+				3F58CDCE199D25EA0019DB3B /* Supporting Files */,
 			);
-			path = PlutoTests;
+			path = "Pluto-tutorial1Tests";
 			sourceTree = "<group>";
 		};
-		3F9789FA199AF34E00B61AF4 /* Supporting Files */ = {
+		3F58CDCE199D25EA0019DB3B /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				3F9789FB199AF34E00B61AF4 /* Info.plist */,
+				3F58CDCF199D25EA0019DB3B /* Info.plist */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -115,60 +112,60 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		3F9789E1199AF34E00B61AF4 /* Pluto */ = {
+		3F58CDB7199D25EA0019DB3B /* Pluto-tutorial1 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3F978A00199AF34E00B61AF4 /* Build configuration list for PBXNativeTarget "Pluto" */;
+			buildConfigurationList = 3F58CDD4199D25EA0019DB3B /* Build configuration list for PBXNativeTarget "Pluto-tutorial1" */;
 			buildPhases = (
-				3F9789DE199AF34E00B61AF4 /* Sources */,
-				3F9789DF199AF34E00B61AF4 /* Frameworks */,
-				3F9789E0199AF34E00B61AF4 /* Resources */,
+				3F58CDB4199D25EA0019DB3B /* Sources */,
+				3F58CDB5199D25EA0019DB3B /* Frameworks */,
+				3F58CDB6199D25EA0019DB3B /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = Pluto;
-			productName = Pluto;
-			productReference = 3F9789E2199AF34E00B61AF4 /* Pluto.app */;
+			name = "Pluto-tutorial1";
+			productName = "Pluto-tutorial1";
+			productReference = 3F58CDB8199D25EA0019DB3B /* Pluto-tutorial1.app */;
 			productType = "com.apple.product-type.application";
 		};
-		3F9789F5199AF34E00B61AF4 /* PlutoTests */ = {
+		3F58CDC9199D25EA0019DB3B /* Pluto-tutorial1Tests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3F978A03199AF34E00B61AF4 /* Build configuration list for PBXNativeTarget "PlutoTests" */;
+			buildConfigurationList = 3F58CDD7199D25EA0019DB3B /* Build configuration list for PBXNativeTarget "Pluto-tutorial1Tests" */;
 			buildPhases = (
-				3F9789F2199AF34E00B61AF4 /* Sources */,
-				3F9789F3199AF34E00B61AF4 /* Frameworks */,
-				3F9789F4199AF34E00B61AF4 /* Resources */,
+				3F58CDC6199D25EA0019DB3B /* Sources */,
+				3F58CDC7199D25EA0019DB3B /* Frameworks */,
+				3F58CDC8199D25EA0019DB3B /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				3F9789F8199AF34E00B61AF4 /* PBXTargetDependency */,
+				3F58CDCC199D25EA0019DB3B /* PBXTargetDependency */,
 			);
-			name = PlutoTests;
-			productName = PlutoTests;
-			productReference = 3F9789F6199AF34E00B61AF4 /* PlutoTests.xctest */;
+			name = "Pluto-tutorial1Tests";
+			productName = "Pluto-tutorial1Tests";
+			productReference = 3F58CDCA199D25EA0019DB3B /* Pluto-tutorial1Tests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		3F9789DA199AF34D00B61AF4 /* Project object */ = {
+		3F58CDB0199D25EA0019DB3B /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0600;
 				ORGANIZATIONNAME = "Redshift Dev Group";
 				TargetAttributes = {
-					3F9789E1199AF34E00B61AF4 = {
+					3F58CDB7199D25EA0019DB3B = {
 						CreatedOnToolsVersion = 6.0;
 					};
-					3F9789F5199AF34E00B61AF4 = {
+					3F58CDC9199D25EA0019DB3B = {
 						CreatedOnToolsVersion = 6.0;
-						TestTargetID = 3F9789E1199AF34E00B61AF4;
+						TestTargetID = 3F58CDB7199D25EA0019DB3B;
 					};
 				};
 			};
-			buildConfigurationList = 3F9789DD199AF34D00B61AF4 /* Build configuration list for PBXProject "Pluto" */;
+			buildConfigurationList = 3F58CDB3199D25EA0019DB3B /* Build configuration list for PBXProject "Pluto-tutorial1" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -176,28 +173,28 @@
 				en,
 				Base,
 			);
-			mainGroup = 3F9789D9199AF34D00B61AF4;
-			productRefGroup = 3F9789E3199AF34E00B61AF4 /* Products */;
+			mainGroup = 3F58CDAF199D25EA0019DB3B;
+			productRefGroup = 3F58CDB9199D25EA0019DB3B /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				3F9789E1199AF34E00B61AF4 /* Pluto */,
-				3F9789F5199AF34E00B61AF4 /* PlutoTests */,
+				3F58CDB7199D25EA0019DB3B /* Pluto-tutorial1 */,
+				3F58CDC9199D25EA0019DB3B /* Pluto-tutorial1Tests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		3F9789E0199AF34E00B61AF4 /* Resources */ = {
+		3F58CDB6199D25EA0019DB3B /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3F9789EF199AF34E00B61AF4 /* Main.storyboard in Resources */,
-				3F9789F1199AF34E00B61AF4 /* Images.xcassets in Resources */,
+				3F58CDC3199D25EA0019DB3B /* Main.storyboard in Resources */,
+				3F58CDC5199D25EA0019DB3B /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		3F9789F4199AF34E00B61AF4 /* Resources */ = {
+		3F58CDC8199D25EA0019DB3B /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -207,39 +204,38 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		3F9789DE199AF34E00B61AF4 /* Sources */ = {
+		3F58CDB4199D25EA0019DB3B /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3F9789EC199AF34E00B61AF4 /* DetailViewController.swift in Sources */,
-				3F9789EA199AF34E00B61AF4 /* MasterViewController.swift in Sources */,
-				3F9789E8199AF34E00B61AF4 /* AppDelegate.swift in Sources */,
+				3F58CDC0199D25EA0019DB3B /* ViewController.swift in Sources */,
+				3F58CDBE199D25EA0019DB3B /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		3F9789F2199AF34E00B61AF4 /* Sources */ = {
+		3F58CDC6199D25EA0019DB3B /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3F9789FD199AF34E00B61AF4 /* PlutoTests.swift in Sources */,
+				3F58CDD1199D25EA0019DB3B /* Pluto_tutorial1Tests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		3F9789F8199AF34E00B61AF4 /* PBXTargetDependency */ = {
+		3F58CDCC199D25EA0019DB3B /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 3F9789E1199AF34E00B61AF4 /* Pluto */;
-			targetProxy = 3F9789F7199AF34E00B61AF4 /* PBXContainerItemProxy */;
+			target = 3F58CDB7199D25EA0019DB3B /* Pluto-tutorial1 */;
+			targetProxy = 3F58CDCB199D25EA0019DB3B /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		3F9789ED199AF34E00B61AF4 /* Main.storyboard */ = {
+		3F58CDC1199D25EA0019DB3B /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				3F9789EE199AF34E00B61AF4 /* Base */,
+				3F58CDC2199D25EA0019DB3B /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -247,7 +243,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		3F9789FE199AF34E00B61AF4 /* Debug */ = {
+		3F58CDD2199D25EA0019DB3B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -290,7 +286,7 @@
 			};
 			name = Debug;
 		};
-		3F9789FF199AF34E00B61AF4 /* Release */ = {
+		3F58CDD3199D25EA0019DB3B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -326,32 +322,32 @@
 			};
 			name = Release;
 		};
-		3F978A01199AF34E00B61AF4 /* Debug */ = {
+		3F58CDD5199D25EA0019DB3B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				INFOPLIST_FILE = Pluto/Info.plist;
+				INFOPLIST_FILE = "Pluto-tutorial1/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
 		};
-		3F978A02199AF34E00B61AF4 /* Release */ = {
+		3F58CDD6199D25EA0019DB3B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				INFOPLIST_FILE = Pluto/Info.plist;
+				INFOPLIST_FILE = "Pluto-tutorial1/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
 		};
-		3F978A04199AF34E00B61AF4 /* Debug */ = {
+		3F58CDD8199D25EA0019DB3B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Pluto.app/Pluto";
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Pluto-tutorial1.app/Pluto-tutorial1";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
@@ -360,22 +356,22 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = PlutoTests/Info.plist;
+				INFOPLIST_FILE = "Pluto-tutorial1Tests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUNDLE_LOADER)";
 			};
 			name = Debug;
 		};
-		3F978A05199AF34E00B61AF4 /* Release */ = {
+		3F58CDD9199D25EA0019DB3B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Pluto.app/Pluto";
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Pluto-tutorial1.app/Pluto-tutorial1";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = PlutoTests/Info.plist;
+				INFOPLIST_FILE = "Pluto-tutorial1Tests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUNDLE_LOADER)";
@@ -385,32 +381,32 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		3F9789DD199AF34D00B61AF4 /* Build configuration list for PBXProject "Pluto" */ = {
+		3F58CDB3199D25EA0019DB3B /* Build configuration list for PBXProject "Pluto-tutorial1" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				3F9789FE199AF34E00B61AF4 /* Debug */,
-				3F9789FF199AF34E00B61AF4 /* Release */,
+				3F58CDD2199D25EA0019DB3B /* Debug */,
+				3F58CDD3199D25EA0019DB3B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3F978A00199AF34E00B61AF4 /* Build configuration list for PBXNativeTarget "Pluto" */ = {
+		3F58CDD4199D25EA0019DB3B /* Build configuration list for PBXNativeTarget "Pluto-tutorial1" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				3F978A01199AF34E00B61AF4 /* Debug */,
-				3F978A02199AF34E00B61AF4 /* Release */,
+				3F58CDD5199D25EA0019DB3B /* Debug */,
+				3F58CDD6199D25EA0019DB3B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
-		3F978A03199AF34E00B61AF4 /* Build configuration list for PBXNativeTarget "PlutoTests" */ = {
+		3F58CDD7199D25EA0019DB3B /* Build configuration list for PBXNativeTarget "Pluto-tutorial1Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				3F978A04199AF34E00B61AF4 /* Debug */,
-				3F978A05199AF34E00B61AF4 /* Release */,
+				3F58CDD8199D25EA0019DB3B /* Debug */,
+				3F58CDD9199D25EA0019DB3B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 3F9789DA199AF34D00B61AF4 /* Project object */;
+	rootObject = 3F58CDB0199D25EA0019DB3B /* Project object */;
 }
